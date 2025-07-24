@@ -8,7 +8,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/yosemite.png
+  overlay_image: images/yosemite.png
   # actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -16,7 +16,7 @@ header:
 # excerpt: "Justin Kingsnorth's Homepage"
 
 intro:
-  - image_path: assets/images/headshot.jpg
+  - image_path: images/headshot.jpg
     alt: "placeholder image 1"
     title: "Justin Kingsnorth's Homepage"
     excerpt: "Hello! I'm a physics and mathematics concentrator in Brown University's Class of 2026. My research interests are in high energy theory, with a focus on new mathematical formulations of scattering amplitudes. I've also done work in group theory, representation theory, and condensed matter simulation. Below, you can read about my projects from the last few years.<br /><br />In my free time, I like to read and play piano! I particularly admire Kurt Vonnegut and Cedar Walton."
